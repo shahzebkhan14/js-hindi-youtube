@@ -1,10 +1,10 @@
 const accountId =144553
 let accountEmail = "shahzebkhan@gmail.com"
 var accountPassword = "123456"
-accountcity ="Jaipur" 
+accountcity ="Jaipur" // i only wrote account city and its declared as a variable
 let accountstate;
 
- //accountId = 2
+ //accountId = 2 // not allowed because const is used
 
 
 accountEmail ="hc@hc.com"
