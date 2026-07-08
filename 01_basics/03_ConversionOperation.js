@@ -61,8 +61,11 @@ let gameCounter = 100;
 console.log(gameCounter);
 console.log(typeof gameCounter);
 
+***************************************for understanding*********************************************
+// let counter = 100;
+counter++; // Adds 1. counter is now 101 (give then change
+console.log(counter); // Prints 101
 
-
-
-
-/ https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
+let score = 100;
+++score; // Adds 1. score is now 101(change then give)
+console.log(score); // Prints 101
