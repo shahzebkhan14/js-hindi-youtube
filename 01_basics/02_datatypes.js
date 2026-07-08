@@ -9,21 +9,21 @@ console.log(3
     console.log("shahzeb")
 
 
-let name = "shahzeb"
-let age = 18
-let isLoggedIn = false
-let state;
+let name = "shahzeb"//string
+let age = 18//number
+let isLoggedIn = false //boolean
+let state;//undefined
 
-// number => 2 to pwor 63
+// number => 2 to pwor 53
 // bigint (used in big website  like trading website)
 //  string => ""
 // boolen => true/false (ya to h ya to ni h )
 //null=> standalone value for eg hamne temprture check kia aur website p ni h to vo 0 nhi null show krega
 // undefined => abhi value define ni hui h
-// symbol=> unique
+// symbol=> unique, to identify a unique object property we willuse symbol in react
 
 
 // object 
-
+//
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
