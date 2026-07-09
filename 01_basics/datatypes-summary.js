@@ -38,3 +38,20 @@ let myObj = {
     console.log(typeof myObj); // object
     console.log(typeof heros); // object
     
+    // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+    let a = "Shahzeb";
+    let b = a;
+    b = "shahzeb khan";
+    console.log(a);
+    console.log(b);
+
+   let obj1 = { email: "shahzeb@example.com",
+    upi: "shahzeb@upi"
+   };
+   let obj2 = obj1;
+   obj2.email = "husain@example.com"
+console.log(obj1);
+
+
+    
