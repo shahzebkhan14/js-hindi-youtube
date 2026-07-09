@@ -61,7 +61,7 @@ let gameCounter = 100;
 console.log(gameCounter);
 console.log(typeof gameCounter);
 
-***************************************for understanding*********************************************
+// ***************************************for understanding*********************************************
 // let counter = 100;
 counter++; // Adds 1. counter is now 101 (give then change
 console.log(counter); // Prints 101
