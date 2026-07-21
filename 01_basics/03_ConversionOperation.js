@@ -58,14 +58,14 @@ let negValue = -value;
 
 let gameCounter = 100;
 ++gameCounter;
-console.log(gameCounter);
-console.log(typeof gameCounter);
+// console.log(gameCounter);
+// console.log(typeof gameCounter);
 
 // ***************************************for understanding*********************************************
 // let counter = 100;
 counter++; // Adds 1. counter is now 101 (give then change
-console.log(counter); // Prints 101
+// console.log(counter); // Prints 101
 
 let score = 100;
 ++score; // Adds 1. score is now 101(change then give)
-console.log(score); // Prints 101
+// console.log(score); // Prints 101
